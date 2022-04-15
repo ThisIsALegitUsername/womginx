@@ -23,7 +23,7 @@ What works:
 What doesn't work:
 1. react sites
 2. sites that depend on window.location and are minified
-3. YouTube UI (however, you can watch a video like https://proxysite.com/main/https://www.youtube.com/watch?v=vidid and it will work)
+3. yt user interface
 
 ## Prerequisites
 
